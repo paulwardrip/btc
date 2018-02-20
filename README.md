@@ -47,3 +47,10 @@ Here are my suggestions:
 * [Etherscan API](https://etherscan.io/apis): Free - REST APIs, they ask that you say Powered by Etherscan.io APIs" but they just say it "would be appreciated". I don't really have a clear idea on the benefits of using this one.
 * Blockcypher: see above.
 
+## 4. Ripple
+
+* [Ripple API](https://ripple.com/build/rippleapi/): Free, Node.js: the Ripple API
+
+## 5. Dash
+
+* [Dash Repository](https://github.com/dashpay/): there are a number of seemingly official Dash projects here.
